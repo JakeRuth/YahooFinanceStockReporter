@@ -1,7 +1,7 @@
 # Yahoo Finance Stock Reporter
 Hi! Welcome.
 
-TLDR; This is a python program that takes in stock tickers as input and scrapes data from Yahoo finance.  It generates reports that automatically open in the browser on program completion.
+**TLDR;** This is a python program that takes in stock tickers as input and scrapes data from Yahoo finance.  It generates reports that automatically open in the browser on program completion.
 
 *Please note that this project is very early in development, it's quite featureless currently*
 
@@ -34,4 +34,3 @@ I have big plans for this script.  My goal is to have it run on an array of stoc
 At this point you may have guessed I am into investing, specifically long term hold value based investing.  I want to find growing undervalued companies in sectors/industries that I want to bet on for big growth in the next 5/10 years
 
 Feel free to reach out to me with any question here on Github :)
-

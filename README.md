@@ -3,7 +3,7 @@ Hi! Welcome.
 
 **TLDR;** This is a python program that takes in stock tickers as input and scrapes data from Yahoo finance.  It generates reports that automatically open in the browser on program completion.
 
-*Please note that this project is very early in development, it's quite featureless currently*
+*Please note that this project is very early in development, it's quite featureless currently.  It will likely remain this way forever*
 
 ### Current Functionality
 * Takes single stock ticker as input
